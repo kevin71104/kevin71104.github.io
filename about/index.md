@@ -10,7 +10,7 @@ I am ...
 
 <figure class="half">
 	<img src="{{base.url}}/assets/img/me-1.jpg" class="img-disappear">
-  <img src="{{base.url}}/assets/img/me-2.jpg">
+    <img src="{{base.url}}/assets/img/me-2.jpg">
 </figure>
 
 <center>
