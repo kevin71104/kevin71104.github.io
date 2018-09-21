@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Eigenspace-Aided Compressed Analysis"
+date:   2018-06-30
+excerpt: "**K.-C. Hsu**, B.-H. Cho, C.-Y. Chou and A. -Y. (ANDY) Wu, "Low-Complexity Compressed Analysis in Eigenspace with Limited Labeled Data for Real-Time Electrocardiography Telemonitoring," *Signal and Information Processing (GlobalSIP), 2018
+IEEE Global Conference on*.
+feature_fig: 
+<figure>
+	<img src="{{site.url}}/assets/img/CA-E/flow_chart.jpg">
+</figure>
+research: true
+tag:
+- Research
+- Bio-Signal Processing
+- Machine Learning
+- Medical Cyber-Physical Systems
+comments: true
+---
+
+**K.-C. Hsu**, B.-H. Cho, C.-Y. Chou and A. -Y. (ANDY) Wu, "Low-Complexity Compressed Analysis in Eigenspace with Limited Labeled Data for Real-Time Electrocardiography Telemonitoring," *Signal and Information Processing (GlobalSIP), 2018 IEEE Global Conference on*.
+
+
