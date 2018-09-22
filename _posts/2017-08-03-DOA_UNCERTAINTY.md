@@ -13,8 +13,7 @@ tag:
 - Khatri-Rao Product
 comments: true
 ---
-<figure class="half">
-	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg" class="img-disappear">
+<figure>
 	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/Estimation_Compare.jpg">
 </figure>
 
@@ -33,6 +32,10 @@ comments: true
 </center>
 
 DESCRIPTION: ...
+
+<figure>
+	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
+</figure>
 
 <p class="double_underline">PUBLICATION:</p>
 **K.-C. Hsu** and J.-F. Kiang, 
