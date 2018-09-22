@@ -7,7 +7,7 @@ comments: false
 ---
 
 I am Kai-Chieh Hsu (許凱傑), or you can just call me Kevin. 
-I'm an undergraduate majoring in electrical engineering at National Taiwan University (NTU).
+I am an undergraduate majoring in electrical engineering at National Taiwan University (NTU).
 Currently, I am the research assistant of <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>
 and conduct the research in **ECG signal telemonitoring**.
 At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a> on 
