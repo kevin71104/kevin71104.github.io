@@ -6,7 +6,13 @@ date: 2018-09-20
 comments: false
 ---
 
-I am ...
+I am Kai-Chieh Hsu (許凱傑), or you can just call me Kevin. 
+I'm an undergraduate majoring in electrical engineering at National Taiwan University (NTU).
+Currently, I am the research assistant of [Prof. An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/), 
+and conduct the research in **on-demand recovery** algorithms of **ECG signal telemonitoring** 
+and the **chip implementation** of the above-mentioned algorithms.
+At the same time, I am working with [Prof. Jean-Fu Kiang](http://cc.ee.ntu.edu.tw/~jfkiang/) on 
+**direction-of-arrival (DOA)** estimation of targets near sea surface under cluttering.
 
 <figure class="half">
 	<img src="{{base.url}}/assets/img/me-1.jpg" class="img-disappear">
@@ -22,11 +28,9 @@ I am ...
 			Curriculum Vitae
 		</span>
 	</a>
-
 </center>
 
-## My Interest:
+## My Interests:
 
-## My Younger Life:
 
 
