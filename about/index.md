@@ -31,7 +31,7 @@ At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" 
 
 ## My Interests:
 Due to the population ageing, the health care on chronic diseases requires attention.
-Applying signal or imaging processing on biomedical data, such as 1D signals (ECG and EEG) and 2D/3D signals (MRI/CT), really attracts me. 
+Applying **signal or imaging processing** on biomedical data, such as 1D signals (ECG and EEG) and 2D/3D signals (MRI and CT), really attracts me. 
 With the advent of **machine learning**, I believe there can be a huge improvement in the medical cyber-physical systems, and thus I enjoy conducting research in this field.
 Currently, I am among two relative projects:
 - On-demand recovery of ECG signals (apply classification on compressed ECG signals and only reconstruct ECG signals classified as atrial fibrillation) and the chip implementation of this algorithm
@@ -39,7 +39,7 @@ Currently, I am among two relative projects:
 - MRI Meningioma Segmentation (Working with <a href="https://www.ntuh.gov.tw/en/surg/doctors/DR/XiaoFuren.aspx" style="color: rgb(0,51,204)">MD. Furen Xiao</a>)
 
 In addition, I am interested in simulating the real world. 
-By formulating the signal model, I can apply different signal processing techniques on received signals to estimate concerned parameters.
+By **formulating the signal model**, I can apply different signal processing techniques on received signals to estimate concerned parameters.
 I enjoy the progress of improving algorithms and the sense of accomplishment when I manage to estimate the concerned parameters.
 My current research is in:
 - Elevation angle estimation of targets near sea surface under cluttering (Working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>)
