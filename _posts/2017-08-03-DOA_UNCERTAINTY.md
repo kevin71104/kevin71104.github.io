@@ -34,7 +34,7 @@ comments: true
 DESCRIPTION: ...
 
 <figure>
-	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
+	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg" width="400" height="420">
 </figure>
 
 <p class="double_underline">PUBLICATION:</p>
