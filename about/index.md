@@ -6,10 +6,9 @@ date: 2018-09-20
 comments: false
 ---
 
-I am Kai-Chieh Hsu (許凱傑), or you can just call me Kevin. 
-I am an undergraduate majoring in electrical engineering at National Taiwan University (NTU).
-Currently, I am the research assistant of <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>
-and conduct the research in **ECG signal telemonitoring**.
+I am Kai-Chieh (Kevin) Hsu (許凱傑), an undergraduate majoring in electrical engineering at National Taiwan University (NTU).
+Currently, I am the research assistant of <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>, 
+conducting the research in **ECG signal telemonitoring**.
 At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a> on 
 **direction-of-arrival (DOA)** estimation.
 
@@ -30,10 +29,10 @@ At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" 
 </center>
 
 ## My Interests:
-Due to the population ageing, the health care on chronic diseases requires attention.
-Applying **signal or imaging processing** on biomedical data, such as 1D signals (ECG and EEG) and 2D/3D signals (MRI and CT), really attracts me. 
-With the advent of **machine learning**, I believe there can be a huge improvement in the medical cyber-physical systems, and thus I enjoy conducting research in this field.
-Currently, I am among two relative projects:
+As the worldwide population ages, the healthcare on chronic diseases requires more attention.
+I'm especially fascinated by the application of **signal or imaging processing** on biomedical data, including 1D signals (ECG and EEG) and 2D/3D signals (MRI and CT).
+With the rise of machine learning, I believe there can be a huge technical improvement in medical cyber-physical systems, and I am devoted to pursuing further studies in this field.
+Currently, I am working on two relative projects:
 - On-demand recovery of ECG signals (apply classification on compressed ECG signals and only reconstruct ECG signals classified as atrial fibrillation) and the chip implementation of this algorithm
 (Working with <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>)
 - MRI Meningioma Segmentation (Working with <a href="https://www.ntuh.gov.tw/en/surg/doctors/DR/XiaoFuren.aspx" style="color: rgb(0,51,204)">MD. Furen Xiao</a>)
