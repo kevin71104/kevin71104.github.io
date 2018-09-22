@@ -13,6 +13,10 @@ tag:
 - Khatri-Rao Product
 comments: true
 ---
+<figure class="half">
+	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg" class="img-disappear">
+	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/Estimation_Compare.jpg">
+</figure>
 
 <center>
 	<a href="{{site.url}}/assets/document/DOA_UNCERTAINTY.pdf" target="_blank" class="btn btn-danger">
