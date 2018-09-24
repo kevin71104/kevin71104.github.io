@@ -15,10 +15,15 @@ comments: true
 ---
 
 <figure>
-	<img src="{{site.url}}/assets/img/DOA_JE/mainarray.jpg">
+	<img src="https://kevin71104.github.io/assets/img/DOA_JE/mainarray.jpg">
 </figure>
 
 DESCRIPTION: ...
+
+<figure class="half">
+	<img src="https://kevin71104.github.io/assets/img/DOA_JE/partFreq_JE.jpg" class="img-disappear"> 
+	<img src="https://kevin71104.github.io/assets/img/DOA_JE/partFreq_10Mu.jpg">
+</figure>
 
 <p class="double_underline">PUBLICATION:</p>
 **K.-C. Hsu** and J.-F. Kiang, 
