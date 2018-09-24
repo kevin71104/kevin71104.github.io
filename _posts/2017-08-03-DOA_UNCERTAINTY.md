@@ -40,7 +40,7 @@ The contribution of this work comes in two aspects:
 - The DOFs of ULA with N sensors are increased from (2N+1) to (2N+2)
 
 <center>
-	<figure class="half">
+	<figure>
 		<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
 	</figure>
 </center>
