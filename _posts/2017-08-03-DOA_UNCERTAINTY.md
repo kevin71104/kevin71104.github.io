@@ -15,7 +15,7 @@ comments: true
 ---
 <center>
 <figure>
-	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
+	<img src="https://kevin71104.github.io/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
 </figure>
 </center>
 
