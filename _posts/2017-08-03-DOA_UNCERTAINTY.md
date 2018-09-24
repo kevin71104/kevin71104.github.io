@@ -10,11 +10,13 @@ tag:
 - Research
 - DOA
 - Uncertainty
-- Khatri-Rao Product
+- Khatri-Rao Subspace
 comments: true
 ---
+
 <figure>
-	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/Estimation_Compare.jpg">
+	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
+	<figcaption>The flow chart of DOA estimation</figcaption>
 </figure>
 
 <center>
@@ -31,16 +33,24 @@ comments: true
 	</a>
 </center>
 
-DESCRIPTION: ...
-
-We utilize
+When we use antenna array to estimate the **direction-of-arrival (DOA)** of received signals, 
+the uncertainty of gain and phase in the antennas will degrade the estimation accuracy.
+However, the calibration is time-consuming, and it is infeasible to calibrate frequently.
+To evaluate DOA under partly-calibrated antenna array is an inevitable problem.
+With an uniform linear array of N antennas, previous work can accurately estimate (2N-2) sensors.
+In this work, we utilize the special structure of the covariance matrix from received signals to estimate the uncertainty of gain and phase.
+Then, we vectorize covariance matrices of several observed time frames and stack them into a matrix, 
+so the Khatri-Rao subspace is formulated.
+Finally, we apply traditional **MUltiple SIgnal Classification (MUSIC)** on above-mentioned matrix, 
+and thus the estimated DOAs have smaller error.
 
 The contribution of this work comes in two aspects:
 - The gain and phase uncertainty in partly-calibrated ULA are correctly estimated
-- The DOFs of ULA with N sensors are increased from (2N+1) to (2N+2)
+- The DOFs of ULA with N sensors are increased from (2N-2) to (2N-1)
 
+The estimated DOAs of our proposed method and previous work, and the real DOAs are showed below:
 <figure>
-	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
+	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/Estimation_Compare.jpg">
 </figure>
 
 <p class="double_underline">PUBLICATION:</p>
