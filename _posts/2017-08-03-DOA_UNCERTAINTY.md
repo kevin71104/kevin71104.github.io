@@ -39,9 +39,11 @@ The contribution of this work comes in two aspects:
 - The gain and phase uncertainty in partly-calibrated ULA are correctly estimated
 - The DOFs of ULA with N sensors are increased from (2N+1) to (2N+2)
 
-<figure class="half">
-	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
-</figure>
+<center>
+	<figure class="half">
+		<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
+	</figure>
+</center>
 
 <p class="double_underline">PUBLICATION:</p>
 **K.-C. Hsu** and J.-F. Kiang, 
