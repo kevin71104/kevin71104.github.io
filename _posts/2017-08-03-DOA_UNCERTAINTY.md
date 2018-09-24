@@ -13,11 +13,12 @@ tag:
 - Khatri-Rao Subspace
 comments: true
 ---
-
+<center>
 <figure>
 	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
-	<figcaption>The flow chart of DOA estimation</figcaption>
+	<figcaption>Fig. 1 The flow chart of DOA estimation</figcaption>
 </figure>
+</center>
 
 <center>
 	<a href="{{site.url}}/assets/document/DOA_UNCERTAINTY.pdf" target="_blank" class="btn btn-danger">
@@ -48,10 +49,12 @@ The contribution of this work comes in two aspects:
 - The gain and phase uncertainty in partly-calibrated ULA are correctly estimated
 - The DOFs of ULA with N sensors are increased from (2N-2) to (2N-1)
 
-The estimated DOAs of our proposed method and previous work, and the real DOAs are showed below:
+<center>
 <figure>
 	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/Estimation_Compare.jpg">
+	<figcaption>Fig. 2 The estimated DOAs of our proposed method and previous work, and the real DOAs</figcaption>
 </figure>
+</center>
 
 <p class="double_underline">PUBLICATION:</p>
 **K.-C. Hsu** and J.-F. Kiang, 
