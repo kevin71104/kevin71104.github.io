@@ -16,7 +16,6 @@ comments: true
 <center>
 <figure>
 	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/flow_chart.jpg">
-	<figcaption>Fig. 1 The flow chart of DOA estimation</figcaption>
 </figure>
 </center>
 
@@ -52,7 +51,6 @@ The contribution of this work comes in two aspects:
 <center>
 <figure>
 	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/Estimation_Compare.jpg">
-	<figcaption>Fig. 2 The estimated DOAs of our proposed method and previous work, and the real DOAs</figcaption>
 </figure>
 </center>
 
