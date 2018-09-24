@@ -8,7 +8,7 @@ feature_fig: <figure><img src="https://kevin71104.github.io/assets/img/DOA_UNCER
 research: true
 tag:
 - Research
-- DOA
+- Direction-of-Arrival Estimation
 - Uncertainty
 - Khatri-Rao Subspace
 comments: true
@@ -20,7 +20,7 @@ comments: true
 </center>
 
 <center>
-	<a href="{{site.url}}/assets/document/DOA_UNCERTAINTY.pdf" target="_blank" class="btn btn-danger">
+	<a href="https://kevin71104.github.io/assets/document/DOA_UNCERTAINTY.pdf" target="_blank" class="btn btn-danger">
 		<span style="font-size: 120%;">
 		PDF Publication
 		</span>
@@ -50,7 +50,7 @@ The contribution of this work comes in two aspects:
 
 <center>
 <figure>
-	<img src="{{site.url}}/assets/img/DOA_UNCERTAINTY/Estimation_Compare.jpg">
+	<img src="https://kevin71104.github.io/assets/img/DOA_UNCERTAINTY/Estimation_Compare.jpg">
 </figure>
 </center>
 
