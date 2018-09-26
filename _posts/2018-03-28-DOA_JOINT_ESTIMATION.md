@@ -9,6 +9,7 @@ research: true
 tag:
 - Research
 - Direction-of-Arrival Estimation
+- Array Signal Processing
 - Frequency Estimation
 - Degree-of-Freedom
 comments: true

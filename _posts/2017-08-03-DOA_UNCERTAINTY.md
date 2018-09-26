@@ -9,7 +9,8 @@ research: true
 tag:
 - Research
 - Direction-of-Arrival Estimation
-- Uncertainty
+- Array Signal Processing
+- Antenna Uncertainty
 - Khatri-Rao Subspace
 comments: true
 ---
