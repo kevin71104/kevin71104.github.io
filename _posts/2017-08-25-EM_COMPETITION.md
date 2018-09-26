@@ -17,7 +17,7 @@ mathjax: true
 <center>
 	<a href="https://kevin71104.github.io/assets/document/EM_Competition.pdf" target="_blank" class="btn btn-danger">
 		<span style="font-size: 120%;">
-		Technical Paper
+		Technical Report
 		</span>
 	</a>
 </center>
