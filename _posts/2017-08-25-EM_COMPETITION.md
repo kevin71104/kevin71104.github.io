@@ -30,6 +30,5 @@ we used air as dielectric and made spacers out of thick cardboards to hold the c
 Finally, copper tape, serving as the outer shield, were put on the outside of the larger straws.
 We first designed the dimension theoretically.
 Then, we used vector network analyzer to check the \\(S_{11}\\) and \\(S_{21}\\) of the designed structure and modified its dimension.
-
-We were honored with the **Second Prize** in this competition.
-In addition, with this award, we were rewarded with **Professor Chun-Hsiung Chen scholarship**.
+On the competition day, the implemented coaxial cable reached only a loss **7.4 dB**, and thus we won the **Second Prize** in this competition.
+In addition, with this award, we were rewarded with **Professor Chun-Hsiung Chen scholarship** by Taiwan Electromagnetic Industry-Academia Consortium.
