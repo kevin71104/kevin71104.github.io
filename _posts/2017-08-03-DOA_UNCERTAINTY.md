@@ -2,7 +2,7 @@
 layout: post
 title:  "DOA Estimation Under Uncertainty"
 date:   2017-08-03
-excerpt: "<strong>K.-C. Hsu</strong> and J.-F. Kiang, ''DOA Estimation of Quasi-Stationary Signals Using a Partly-Calibrated Uniform Linear Array
+excerpt: "<strong><big>K.-C. Hsu</big></strong> and J.-F. Kiang, ''DOA Estimation of Quasi-Stationary Signals Using a Partly-Calibrated Uniform Linear Array
 with Fewer Sensors than Sources,'' <i>Progress In Electromagnetics Research M (PIER M)</i>, vol. 63, pp. 185-193, 2018."
 feature_fig: <figure><img src="https://kevin71104.github.io/assets/img/DOA_UNCERTAINTY/Estimation_Compare.jpg"></figure>
 research: true
