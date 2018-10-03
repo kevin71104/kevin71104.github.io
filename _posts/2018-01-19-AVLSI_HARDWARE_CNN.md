@@ -32,3 +32,12 @@ mathjax: true
 		</span>
 	</a>
 </center>
+
+As the convolutional neural network (CNN) achieving better classification performance in figures such as ImageNet data set,
+many state-of-the-art architectures have been proposed, including **AlexNet**, **GoogleNet**, **ResNet** and **Xception**.
+However, these models only focus on classification accuracy, and thus the strcucture goes deeper and deeper, 
+which is a great budden for hardware implementation.
+In this project, we survey and review several famous CNN architectures and conduct experiments to test the power consumption of each architecture.
+With these experiments, we summarize the top-1 accuracy, top-5 accuracy, the number of parameters, GFLOPs, power and inference time in a table
+and draw some charts to analyze the advantages and drawbacks of these architectures.
+Finally, we survey some hardware-friendly design, which is helpful if we want to implement these CNN architectures by hardware.
