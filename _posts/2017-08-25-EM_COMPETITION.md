@@ -23,10 +23,10 @@ mathjax: true
 </center>
 
 In this competition, we were asked to use materials in the stationery store to create an electromagnetic medium, 
-which can transmit signals longer than 2.5 meters with minimum loss when operated at 3 GHz.
-We selected stranded copper wires as the center conductor and used straws to help maintaining rigidity of the wire. 
+which can transmit signals longer than 2.5 meters with a minimum loss when operated at 3 GHz.
+We selected stranded copper wires as the center conductor and used straws to help to maintain rigidity of the wire. 
 Also, like many extremely low loss coaxial cables, 
-we used air as dielectric and made spacers out of thick cardboards to hold the center conductor in place and prevent it from touching the outer shield. 
+we used air as dielectric and made spacers out of thick cardboard to hold the center conductor in place and prevent it from touching the outer shield. 
 Finally, copper tape, serving as the outer shield, were put on the outside of the larger straws.
 We first designed the dimension theoretically.
 Then, we used vector network analyzer to check the \\(S_{11}\\) and \\(S_{21}\\) of the designed structure and modified its dimension.

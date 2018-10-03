@@ -38,6 +38,6 @@ comments: true
 
 In this project, we implement a kitchen's helper, which can cut the food in the equal pieces.
 In addition, the number of pieces can be chosen as 2, 4, or 8.
-We write the verilog code to control **Field Programmable Gate Array (FPGA)** and use supersonic element (HC-SR04) to detect the distance.
-In order to conduct "CUT" and "MOVE", we use stepper motor (28ybj-48) and driver (L298).
+We write the Verilog code to control **Field Programmable Gate Array (FPGA)** and use supersonic element (HC-SR04) to detect the distance.
+In order to conduct "CUT" and "MOVE", we use the stepper motor (28ybj-48) and driver (L298).
 This work is chosen as the top-3 project in the course.

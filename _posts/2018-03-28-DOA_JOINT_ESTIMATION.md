@@ -23,7 +23,7 @@ In practical scenarios like air-plane navigation and monitoring near an airport,
 the target signals consist of carrier frequency (CF) known and carrier frequency unknown source signals.
 When the carrier frequency is unknown, state-of-the-art algorithms like **MUltiple SIgnal Classification (MUSIC)** cannot be directly applied.
 In addition, the complexity of **Compressed Sensing (CS)** approach is too high to use in practice.
-Although joint **stimation of ignal parameters via rotational invariance techniques (ESPRIT)** can estimate CF and DOA simultaneously,
+Although joint **estimation of signal parameters via rotational invariance techniques (ESPRIT)** can estimate CF and DOA simultaneously,
 the number of detectable source signals is limited.
 In our work, we propose a two-stage estimation algorithm to jointly estimate DOA and CF, 
 and two orthogonal co-prime arrays (CPA) are used to increase degree-of-freedoms.
