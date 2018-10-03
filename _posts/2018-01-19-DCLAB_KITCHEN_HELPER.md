@@ -3,7 +3,7 @@ layout: post
 title:  "Kitchen's Helper"
 date:   2018-01-19
 excerpt: "We implemented an automatic cutting machine, which can cut the target into demanded pieces equally."
-feature_fig: <figure><img src="https://kevin71104.github.io/assets/img/DCLAB_Kitchen/Architecture.png"></figure>
+feature_fig: <figure><img src="https://kevin71104.github.io/assets/img/DCLAB_Kitchen/product.jpg"></figure>
 project: true
 tag:
 - Course Work
@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-<figure><img src="https://kevin71104.github.io/assets/img/DCLAB_Kitchen/Architecture.png"></figure>
+<figure><img src="https://kevin71104.github.io/assets/img/DCLAB_Kitchen/product.jpg"></figure>
 
 <center>
 	<a href="https://kevin71104.github.io/assets/document/DCLAB_Kitchen_Helper.pdf" target="_blank" class="btn btn-danger">
@@ -33,3 +33,11 @@ comments: true
 		</span>
 	</a>
 </center>
+
+<figure><img src="https://kevin71104.github.io/assets/img/DCLAB_Kitchen/Architecture.png"></figure>
+
+In this project, we implement a kitchen's helper, which can cut the food in the equal pieces.
+In addition, the number of pieces can be chosen as 2, 4, or 8.
+We write the verilog code to control **Field Programmable Gate Array (FPGA)** and use supersonic element (HC-SR04) to detect the distance.
+In order to conduct "CUT" and "MOVE", we use stepper motor (28ybj-48) and driver (L298).
+This work is chosen as the top-3 project in the course.
