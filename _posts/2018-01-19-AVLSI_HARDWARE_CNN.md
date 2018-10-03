@@ -2,7 +2,7 @@
 layout: post
 title:  "An Analysis of Operations Modification in Deep Neural Network in Hardware Perspective"
 date:   2018-01-19
-excerpt: "We analyze the tradeoff between hardware resource requirement and top-1 accuracy of state-of-the-art CNN models."
+excerpt: "We analyzed the tradeoff between hardware resource requirement and top-1 accuracy of state-of-the-art CNN models."
 project: true
 feature_fig: <figure class="half"><img src="https://kevin71104.github.io/assets/img/AVLSI_CNN/con_1.png" class="img-disappear"> <img src="https://kevin71104.github.io/assets/img/AVLSI_CNN/con_2.png"></figure>
 tag:
@@ -37,7 +37,9 @@ As the convolutional neural network (CNN) achieving better classification perfor
 many state-of-the-art architectures have been proposed, including **AlexNet**, **GoogleNet**, **ResNet** and **Xception**.
 However, these models only focus on classification accuracy, and thus the structure goes deeper and deeper, 
 which is a great burden for hardware implementation.
-In this project, we survey and review several famous CNN architectures and conduct experiments to test the power consumption of each architecture.
-With these experiments, we summarize the top-1 accuracy, top-5 accuracy, the number of parameters, GFLOPs, power and inference time in a table
-and draw some charts to analyze the advantages and drawbacks of these architectures.
-Finally, we survey some hardware-friendly design, which is helpful if we want to implement these CNN architectures by hardware.
+In this project, we surveyed and reviewed several famous CNN architectures and 
+conducted experiments to test the power consumption of each architecture.
+With these experiments, we summarized the top-1 accuracy, top-5 accuracy, the number of parameters, GFLOPs, power and inference time in a table
+and drew some charts to analyze the advantages and drawbacks of these architectures.
+Finally, we surveyed some hardware-friendly designs, 
+which are helpful for us to implement these CNN architectures in hardware.

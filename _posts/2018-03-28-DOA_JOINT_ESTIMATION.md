@@ -25,13 +25,13 @@ When the carrier frequency is unknown, state-of-the-art algorithms like **MUltip
 In addition, the complexity of **Compressed Sensing (CS)** approach is too high to use in practice.
 Although joint **estimation of signal parameters via rotational invariance techniques (ESPRIT)** can estimate CF and DOA simultaneously,
 the number of detectable source signals is limited.
-In our work, we propose a two-stage estimation algorithm to jointly estimate DOA and CF, 
-and two orthogonal co-prime arrays (CPA) are used to increase degree-of-freedoms.
-In the first stage, the DOAs of CF known sources are estimated by spatial-smoothing MUSIC and a simple matching method.
-In the second stage, **projected joint ESPRIT (PJE)** is used to estimate the DOAs and CFs of CF unknown sources.
+In our work, we proposed a two-stage estimation algorithm to jointly estimate DOA and CF, 
+and two orthogonal co-prime arrays (CPA) were used to increase degree-of-freedoms.
+In the first stage, the DOAs of CF known sources were estimated by spatial-smoothing MUSIC and a simple matching method.
+In the second stage, **projected joint ESPRIT (PJE)** was used to estimate the DOAs and CFs of CF unknown sources.
 
 The contribution of this work comes in two aspects:
-- Our proposed PJE can detect more accurately when the number of sources grows
+- Our proposed PJE can detect more accurately even when the number of sources grows
 - The orthogonal CPAs are utilized and the corresponding signal processing techniques are proposed
 
 <figure class="half">

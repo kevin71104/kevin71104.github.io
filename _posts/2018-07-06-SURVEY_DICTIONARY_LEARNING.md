@@ -2,7 +2,7 @@
 layout: post
 title:  "Survey of Dictionary Learning"
 date:   2018-07-06
-excerpt: " In this project, we present the statistical guarantee and the state-of-the-art optimization algorithms of reconstructive dictionary learning 
+excerpt: " In this project, we surveyed the statistical guarantee and the state-of-the-art optimization algorithms of reconstructive dictionary learning 
 for restoration task and predictive dictionary learning for classification/regression task."
 feature_fig: <figure><img src="https://kevin71104.github.io/assets/img/Survey_DL/DL.jpg"></figure>
 project: true
@@ -23,13 +23,14 @@ mathjax: true
 	</a>
 </center>
 
-**Dictionary learning (DL)** is an algorithm to learn the basis set from the given data set, so these data can be expressed in sparse linear combination.
+**Dictionary learning (DL)** is an algorithm to learn the basis set from the given data set, 
+so these data can be expressed in sparse linear combination.
 Many applications illustrate that DL can achieve state-of-the-art performance in both denoising and classification.
-In this technical report, we review the statistical guarantee, namely the generalization bound, 
+In this technical report, we reviewed the statistical guarantee, namely the generalization bound, 
 of reconstructive dictionary learning (RDL) and predictive dictionary learning(PDL).
-In addition, we also summarize the state-of-the-art optimization algorithms, such as 
+In addition, we also summarized the state-of-the-art optimization algorithms, such as 
 **method of optimal directions (MOD)**, **K-SVD** and **online dictionar learning (ODL)** for RDL, 
 and **task-driven dictionary learning (TDDL)** for PDL.
 We also put emphasis on the sparse coding optimization algorithms, such as 
 **iterative shrinkage-thresholding algorithm (ISTA)** and its extension **fast iterative shrinkage-thresholding algorithm (FISTA)**.
-Furthermore, we study their convergence rates and compare them to **Nesterov's accelerated gradient descent**.
+Furthermore, we studied their convergence rates and compared them to **Nesterov's accelerated gradient descent**.
