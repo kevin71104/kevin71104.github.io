@@ -19,7 +19,20 @@ comments: true
 	<img src="https://kevin71104.github.io/assets/img/DOA_JE/mainarray.jpg">
 </figure>
 
-DESCRIPTION: ...
+In practical scenarios like air-plane navigation and monitoring near an airport, 
+the target signals consist of carrier frequency (CF) known and carrier frequency unknown source signals.
+When the carrier frequency is unknown, state-of-the-art algorithms like **MUltiple SIgnal Classification (MUSIC)** cannot be directly applied.
+In addition, the complexity of **Compressed Sensing (CS)** approach is too high to use in practice.
+Although joint **stimation of ignal parameters via rotational invariance techniques (ESPRIT)** can estimate CF and DOA simultaneously,
+the number of detectable source signals is limited.
+In our work, we propose a two-stage estimation algorithm to jointly estimate DOA and CF, 
+and two orthogonal co-prime arrays (CPA) are used to increase degree-of-freedoms.
+In the first stage, the DOAs of CF known sources are estimated by spatial-smoothing MUSIC and a simple matching method.
+In the second stage, **projected joint ESPRIT (PJE)** is used to estimate the DOAs and CFs of CF unknown sources.
+
+The contribution of this work comes in two aspects:
+- Our proposed PJE can detect more accurately when the number of sources grows
+- The orthogonal CPAs are utilized and the corresponding signal processing techniques are proposed
 
 <figure class="half">
 	<img src="https://kevin71104.github.io/assets/img/DOA_JE/partFreq_JE.jpg" class="img-disappear"> 
