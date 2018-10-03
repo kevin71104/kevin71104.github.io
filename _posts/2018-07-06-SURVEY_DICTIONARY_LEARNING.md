@@ -31,3 +31,4 @@ In addition, we also summarize the state-of-the-art optimization algorithms, suc
 and **task-driven dictionary learning (TDDL)** for PDL.
 We also put emphasis on the sparse coding optimization algorithms, such as 
 **iterative shrinkage-thresholding algorithm (ISTA)** and its extension **fast iterative shrinkage-thresholding algorithm (FISTA)**.
+Furthermore, we study their convergence rates and compare them to **Nesterov's accelerated gradient descent**.
