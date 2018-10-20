@@ -21,7 +21,7 @@ At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" 
 	<span style="font-size: 130%;">
 		Click here to view my CV: &nbsp;&nbsp;&nbsp;
 	</span> 
-	<a href="{{base.url}}/assets/document/CV_181003.pdf" target="_blank" class="btn btn-info">
+	<a href="{{base.url}}/assets/document/CV_181020.pdf" target="_blank" class="btn btn-info">
 		<span style="font-size: 130%;">
 			Curriculum Vitae
 		</span>
