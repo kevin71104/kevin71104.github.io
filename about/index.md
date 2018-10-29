@@ -46,9 +46,11 @@ Currently, I am working on two directly related projects:
 In addition to direct applications on bio-medical signals, I am also interested in simulating the real world. 
 By formulating the signal model, I can better analyze the received signal and apply different signal processing techniques to improve sensing performance.
 Therefore, sensors in MCPS can be better designed.
-My current research is in:
+Although my current research in sensing is more related to target tracking, 
+I believe this experience will be useful for me to build up practical MCPS.
+The topic of my research is:
 - Elevation angle estimation of targets near sea surface under cluttering (Working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>)
 
-Although my current research is more related to target tracking, I believe this experience will be useful for me to build up practical MCPS.
+
 
 
