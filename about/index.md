@@ -34,9 +34,9 @@ I'm especially fascinated by the **Medical Cyber-Physical Systems (MCPS)**, for 
 MCPS requires interdisciplinary knowledge from signal processing, machine learning, and hardware design, 
 which I've conducted some research and am passionate to pursue further studies in.
 In particular, I consider belowing areas worth scrutinizing:
-	- How to design the MCPS with privacy-preservation?
-	- How to improve the performance (eg. resolution and operating time for biomedical imaging and accuracy for classification)?
-	- What is the better algorithm if we want to implement it on hardware, which has the strict limit on power and memory?
+- How to design the MCPS with privacy-preservation?
+- How to improve the performance (eg. resolution and operating time for biomedical imaging and accuracy for classification)?
+- What is the better algorithm if we want to implement it on hardware, which has the strict limit on power and memory?
 
 Currently, I am working on two directly related projects:
 - On-demand recovery of ECG signals (apply classification on compressed ECG signals and only reconstruct ECG signals classified as atrial fibrillation) and the chip implementation of this algorithm
