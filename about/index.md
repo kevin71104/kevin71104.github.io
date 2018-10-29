@@ -30,17 +30,19 @@ At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" 
 
 ## My Interests:
 As the worldwide population ages, the healthcare on chronic diseases requires more attention.
-I'm especially fascinated by the application of **signal or imaging processing** on biomedical data, including 1D signals (ECG and EEG) and 2D/3D signals (MRI and CT).
-With the rise of machine learning, I believe there can be a huge technical improvement in medical cyber-physical systems, and I am devoted to pursuing further studies in this field.
-Currently, I am working on two relative projects:
+I'm especially fascinated by the **Medical Cyber-Physical Systems (MCPS)**, for it can relieve economic pressures on health-care systems worldwide and assists physicians in making decision effectively and efficiently.
+MCPS requires interdisciplinary knowledge from signal processing, machine learning, and hardware design, 
+which I've conducted some research and am passionate to pursue further studies in.
+Currently, I am working on two directly related projects:
 - On-demand recovery of ECG signals (apply classification on compressed ECG signals and only reconstruct ECG signals classified as atrial fibrillation) and the chip implementation of this algorithm
 (Working with <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>)
 - MRI Meningioma Segmentation (Working with <a href="https://www.ntuh.gov.tw/en/surg/doctors/DR/XiaoFuren.aspx" style="color: rgb(0,51,204)">MD. Furen Xiao</a>)
 
-In addition, I am interested in simulating the real world. 
-By **formulating the signal model**, I can apply different signal processing techniques on received signals to estimate concerned parameters.
-I enjoy the progress of improving algorithms and the sense of accomplishment when I manage to estimate the concerned parameters.
+In addition to direct applications on bio-medical signals, I am also interested in simulating the real world. 
+By formulating the signal model, I can better analyze the received signal and apply different signal processing techniques to improve sensing performance.
+Therefore, sensors in MCPS can be better designed.
 My current research is in:
 - Elevation angle estimation of targets near sea surface under cluttering (Working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>)
+Although my current research is more related to target tracking, I believe this experience will be useful for me to build up practical MCPS.
 
 
