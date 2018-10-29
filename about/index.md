@@ -33,6 +33,11 @@ As the worldwide population ages, the healthcare on chronic diseases requires mo
 I'm especially fascinated by the **Medical Cyber-Physical Systems (MCPS)**, for it can relieve economic pressures on health-care systems worldwide and assists physicians in making decision effectively and efficiently.
 MCPS requires interdisciplinary knowledge from signal processing, machine learning, and hardware design, 
 which I've conducted some research and am passionate to pursue further studies in.
+In particular, I consider belowing areas worth scrutinizing:
+	- How to design the MCPS with privacy-preservation?
+	- How to improve the performance (eg. resolution and operating time for biomedical imaging and accuracy for classification)?
+	- What is the better algorithm if we want to implement it on hardware, which has the strict limit on power and memory?
+
 Currently, I am working on two directly related projects:
 - On-demand recovery of ECG signals (apply classification on compressed ECG signals and only reconstruct ECG signals classified as atrial fibrillation) and the chip implementation of this algorithm
 (Working with <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>)
@@ -43,6 +48,7 @@ By formulating the signal model, I can better analyze the received signal and ap
 Therefore, sensors in MCPS can be better designed.
 My current research is in:
 - Elevation angle estimation of targets near sea surface under cluttering (Working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>)
+
 Although my current research is more related to target tracking, I believe this experience will be useful for me to build up practical MCPS.
 
 

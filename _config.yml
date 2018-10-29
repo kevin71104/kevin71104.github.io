@@ -1,8 +1,8 @@
 # Site
 title:              Kai-Chieh Hsu
 main_title:         Kai-Chieh Hsu's Homepage
-bio:                'Having passion in signal processing, machine learning and VLSI design'
-description:        "Having passion in signal processing, machine learning and VLSI design"
+bio:                'Having passion in signal processing, machine learning and software-hardware design'
+description:        "Having passion in signal processing, machine learning and software-hardware design"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo_p.png'
