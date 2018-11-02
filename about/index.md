@@ -21,7 +21,7 @@ At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" 
 	<span style="font-size: 130%;">
 		Click here to view my CV: &nbsp;&nbsp;&nbsp;
 	</span> 
-	<a href="{{base.url}}/assets/document/CV_181031.pdf" target="_blank" class="btn btn-info">
+	<a href="{{base.url}}/assets/document/CV_181102.pdf" target="_blank" class="btn btn-info">
 		<span style="font-size: 130%;">
 			Curriculum Vitae
 		</span>
@@ -30,7 +30,9 @@ At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" 
 
 ## My Interests:
 As the worldwide population ages, the healthcare on chronic diseases requires more attention.
-I'm especially fascinated by the **Medical Cyber-Physical Systems (MCPS)**, for it can relieve economic pressures on health-care systems worldwide and assists physicians in making decision effectively and efficiently.
+I'm especially fascinated by the **Medical Cyber-Physical Systems (MCPS)**, where software and physical components are deeply intertwined and interact with each other in a wide range of
+applications.
+In particular, I want to focus on biomedical monitoring system, for it can relieve economic pressures on health-care systems worldwide and assists physicians in making decision effectively and efficiently.
 MCPS requires interdisciplinary knowledge from **signal processing**, **machine learning**, and **hardware design**, 
 which I've conducted some research and am passionate to pursue further studies in.
 In particular, I consider belowing areas worth scrutinizing:
