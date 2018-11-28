@@ -40,10 +40,9 @@ In particular, I consider belowing areas worth scrutinizing:
 - How to design the MCPS with privacy-preservation?
 - What is the better algorithm if we want to implement it on hardware, which has the strict limit on power and memory?
 
-Currently, I am working on two directly related projects:
+Currently, I am working on a directly related project:
 - On-demand recovery of ECG signals (apply classification on compressed ECG signals and only reconstruct ECG signals classified as atrial fibrillation) and the chip implementation of this algorithm
 (Working with <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>)
-- MRI Meningioma Segmentation (Working with <a href="https://www.ntuh.gov.tw/en/surg/doctors/DR/XiaoFuren.aspx" style="color: rgb(0,51,204)">MD. Furen Xiao</a>)
 
 In addition to direct applications on bio-medical signals, I am also interested in simulating the real world. 
 By formulating the signal model, I can better analyze the received signal and apply different signal processing techniques to improve sensing performance.
