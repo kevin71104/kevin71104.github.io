@@ -19,6 +19,14 @@ comments: true
 	<img src="https://kevin71104.github.io/assets/img/DOA_JE/mainarray.jpg">
 </figure>
 
+<center>
+	<a href="{{site.url}}/assets/document/PIERS_slides.pdf" target="_blank" class="btn btn-danger">
+		<span style="font-size: 120%;">
+		PIERS Slides
+		</span>
+	</a>
+</center>
+
 In practical scenarios like air-plane navigation and monitoring near an airport, 
 the target signals consist of carrier frequency (CF) known and carrier frequency unknown source signals.
 When the carrier frequency is unknown, state-of-the-art algorithms like **MUltiple SIgnal Classification (MUSIC)** cannot be directly applied.
@@ -42,4 +50,8 @@ The contribution of this work comes in two aspects:
 <p class="double_underline">PUBLICATION:</p>
 **K.-C. Hsu** and J.-F. Kiang, 
 ''Joint Estimation of DOA and Carrier Frequency Based on Coprime Arrays,'' 
-*Progress In Electromagnetics Research Symposium*, 2018.
+*Progress In Electromagnetics Research Symposium*, Aug. 2018.
+
+**K.-C. Hsu** and J.-F. Kiang,
+''Joint Estimation of DOA and Frequency From A Mixture of Frequency Known and Unknown Sources with Orthogonal Coprime Arrays,'' 
+submitted to *Sensors*, Nov. 2018.

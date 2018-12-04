@@ -59,6 +59,6 @@ The contribution of this work comes in two aspects:
 **K.-C. Hsu** and J.-F. Kiang, 
 ''DOA estimation of quasi-stationary signals using a partly-calibrated uniform linear array
 with fewer sensors than sources,'' 
-<i>Progress In Electromagnetics Research M (PIER M)</i>, vol. 63, pp. 185-193, 2018.
+<i>Progress In Electromagnetics Research M (PIER M)</i>, vol. 63, pp. 185-193, Jan. 2018.
 
 
