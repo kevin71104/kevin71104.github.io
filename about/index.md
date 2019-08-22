@@ -13,12 +13,7 @@ His research focuses on co-optimization of software and physical components for 
 In particular, his research interests include biomedical signal processing, machine learning and digital VLSI design.
 
 Prior to joining Princeton University, he was the undergraduate researcher in NTU.
-He was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>) focusing on intelligent reconstruction for compressed sensing ECG signals and a member of Group of Electromagnetic Applications (<a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>) focusing on direction-of-arrival estimation of signals.
-
-<figure class="half">
-	<img src="{{base.url}}/assets/img/me-1.jpg" class="img-disappear">
-    <img src="{{base.url}}/assets/img/me-2.jpg">
-</figure>
+He was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>) focusing on intelligent reconstruction for compressed sensing ECG signals and a member of *Group of Electromagnetic Applications* (<a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>) focusing on direction-of-arrival estimation of signals.
 
 <center>
 	<span style="font-size: 130%;">
@@ -30,3 +25,8 @@ He was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="c
 		</span>
 	</a>
 </center>
+
+<figure class="half">
+	<img src="{{base.url}}/assets/img/me-1.jpg" class="img-disappear">
+    <img src="{{base.url}}/assets/img/me-2.jpg">
+</figure>
