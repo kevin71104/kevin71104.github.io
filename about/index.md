@@ -6,11 +6,14 @@ date: 2018-09-20
 comments: false
 ---
 
-I am Kai-Chieh (Kevin) Hsu, an undergraduate majoring in electrical engineering at National Taiwan University (NTU).
-Currently, I am the research assistant of <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>, 
-conducting the research in **ECG signal telemonitoring**.
-At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a> on 
-**direction-of-arrival (DOA)** estimation.
+Kai-Chieh Hsu received the B.S. degree in electrical engineering from National Taiwan University (NTU), Taipei, Taiwan, in 2019.
+He is currently working toward the Ph.D. degree in the electrical engineering, Princeton University.
+
+His research focuses on co-optimization of software and physical components for healthcare applications. 
+In particular, his research interests include biomedical signal processing, machine learning and digital VLSI design.
+
+Prior to joining Princeton University, he was the undergraduate researcher in NTU.
+He was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>) focusing on intelligent reconstruction for compressed sensing ECG signals and a member of Group of Electromagnetic Applications (<a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>) focusing on direction-of-arrival estimation of signals.
 
 <figure class="half">
 	<img src="{{base.url}}/assets/img/me-1.jpg" class="img-disappear">
@@ -27,31 +30,3 @@ At the same time, I am working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" 
 		</span>
 	</a>
 </center>
-
-## My Interests:
-As the worldwide population ages, the healthcare on chronic diseases requires more attention.
-I'm especially fascinated by the **Medical Cyber-Physical Systems (MCPS)**, where software and physical components are deeply intertwined and interact with each other in a wide range of
-applications.
-In particular, I want to focus on biomedical monitoring system, for it can relieve economic pressures on health-care systems worldwide and assists physicians in making decision effectively and efficiently.
-MCPS requires interdisciplinary knowledge from **signal processing**, **machine learning**, and **hardware design**, 
-which I've conducted some research and am passionate to pursue further studies in.
-In particular, I consider belowing areas worth scrutinizing:
-- How to improve the performance (eg. resolution and operating time for biomedical imaging and accuracy for classification)?
-- How to design the MCPS with privacy-preservation?
-- What is the better algorithm if we want to implement it on hardware, which has the strict limit on power and memory?
-
-Currently, I am working on a directly related project:
-- On-demand recovery of ECG signals (apply classification on compressed ECG signals and only reconstruct ECG signals classified as atrial fibrillation) and the chip implementation of this algorithm
-(Working with <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>)
-
-In addition to direct applications on bio-medical signals, I am also interested in simulating the real world. 
-By formulating the signal model, I can better analyze the received signal and apply different signal processing techniques to improve sensing performance.
-Therefore, sensors in MCPS can be better designed.
-Although my current research in sensing is more related to target tracking, 
-I believe this experience will be useful for me to build up practical MCPS.
-The topic of my research is:
-- Elevation angle estimation of targets near sea surface under cluttering (Working with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>)
-
-
-
-
